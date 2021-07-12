@@ -515,4 +515,4 @@ async def on_message(message):
           
 keep_alive()
 token = os.environ.get
-client.run("ODQ1ODg5MTE3MTg3NDczNDE5.YKnhoQ.o8zR9UCgBQN7wAI6MuSlgwsfsAs")
+client.run("TOKEN")
